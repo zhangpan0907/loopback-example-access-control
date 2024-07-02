@@ -14,7 +14,7 @@
     "loopback": "^3.0.0",
     "loopback-boot": "^2.4.0",
     "serve-favicon": "^2.0.1",
-    "strong-error-handler": "^3.2.0",
+    "strong-error-handler": "^5.0.5",
     "supertest": "^3.3.0"
   },
   "optionalDependencies": {
